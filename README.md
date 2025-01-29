@@ -68,7 +68,7 @@ Step-by-step instructions to set up the project locally.
 
 ```bash
 # Clone the repository
-https://github.com/programming-hero-web-course1/b10-a9-authentication-rejaul48
+https://github.com/rejaul48/Career-Campus.git
 
 # Navigate to the project directory
 cd your_repository
