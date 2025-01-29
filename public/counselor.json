@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "counselor": "John Doe",
+      "image": "https://i.imgur.com/1joB0Wc.jpeg",
+      "specialist": "Career Strategist",
+      "description": "John Doe is a seasoned career strategist with over 15 years of experience in helping professionals navigate complex career transitions and achieve their goals. He specializes in guiding clients through self-discovery, skill development, and career advancement strategies, ensuring they find fulfilling career paths."
+    },
+    {
+      "id": 2,
+      "counselor": "Jane Smith",
+      "image": "https://i.imgur.com/wwbkkAJ.jpeg",
+      "specialist": "Resume Expert",
+      "description": "Jane Smith is a certified resume expert with a keen eye for detail. She has helped countless individuals craft compelling resumes that showcase their strengths and align with industry standards. Her expertise lies in optimizing resumes to meet the expectations of recruiters and hiring managers across various sectors."
+    },
+    {
+      "id": 3,
+      "counselor": "Michael Lee",
+      "image": "https://i.imgur.com/5Vm6BG4.jpeg",
+      "specialist": "Job Search Specialist",
+      "description": "Michael Lee is a job search expert who excels at empowering individuals to navigate the competitive job market. With a deep understanding of recruitment trends, Michael provides practical strategies for optimizing job searches, leveraging professional networks, and maximizing online presence for career success."
+    },
+    {
+      "id": 4,
+      "counselor": "Sarah Connor",
+      "image": "https://i.imgur.com/lp7dtJd.jpeg",
+      "specialist": "Interview Coach",
+      "description": "Sarah Connor is an accomplished interview coach who prepares clients to excel in interviews through mock sessions and constructive feedback. Her expertise includes behavioral interviews, communication skills, and stress management, enabling her clients to confidently present their qualifications and secure their desired roles."
+    },
+    {
+      "id": 5,
+      "counselor": "David Brown",
+      "image": "https://i.imgur.com/KG5IAu6.jpeg",
+      "specialist": "Writing Coach",
+      "description": "David Brown is a professional writing coach specializing in cover letters and professional correspondence. With a background in communications and HR, he helps clients articulate their skills and experiences effectively, ensuring their applications stand out in competitive job markets."
+    },
+    {
+      "id": 6,
+      "counselor": "Emily White",
+      "image": "https://i.imgur.com/lp7dtJd.jpeg",
+      "specialist": "LinkedIn Profile Strategist",
+      "description": "Emily White is a LinkedIn profile optimization expert with a proven track record of helping clients attract recruiters and professional opportunities. She provides tailored strategies to enhance online profiles, ensuring clients maximize their professional presence and networking potential."
+    },
+    {
+      "id": 7,
+      "counselor": "James Hart",
+      "image": "https://i.imgur.com/KG5IAu6.jpeg",
+      "specialist": "Career Assessment Specialist",
+      "description": "James Hart is a certified career assessment expert who helps individuals identify their strengths, values, and interests. Using personalized assessments, he provides actionable recommendations for clients to explore career paths that align with their unique skills and passions."
+    },
+    {
+      "id": 8,
+      "counselor": "Olivia Green",
+      "image": "https://i.imgur.com/53pbI0C.jpeg",
+      "specialist": "Networking Consultant",
+      "description": "Olivia Green is a networking consultant who teaches clients how to build meaningful professional connections. With a background in corporate training, Olivia shares effective techniques for leveraging networking platforms and creating opportunities for career advancement."
+    },
+    {
+      "id": 9,
+      "counselor": "Liam Turner",
+      "image": "https://i.imgur.com/IxEJxGv.jpeg",
+      "specialist": "Group Career Workshop Leader",
+      "description": "Liam Turner is a dynamic career workshop leader with expertise in facilitating engaging group sessions. His workshops focus on collaborative learning, providing participants with strategies for job searching, resume crafting, and career planning in an interactive environment."
+    },
+    {
+      "id": 10,
+      "counselor": "Sophia Taylor",
+      "image": "https://i.imgur.com/IxEJxGv.jpeg",
+      "specialist": "Career Planner",
+      "description": "Sophia Taylor is a dedicated career planner who works closely with clients to create personalized career roadmaps. With extensive experience in career development, Sophia helps individuals set measurable goals and develop actionable strategies for long-term success."
+    },
+    {
+      "id": 11,
+      "counselor": "Mia Lewis",
+      "image": "https://i.imgur.com/x9W4AIw.jpeg",
+      "specialist": "Freelance Consultant",
+      "description": "Mia Lewis is a freelance consultant who specializes in guiding individuals through the complexities of freelancing. With her expert advice, clients learn to manage freelance businesses effectively, from client acquisition to branding and financial management."
+    },
+    {
+      "id": 12,
+      "counselor": "Daniel Harris",
+      "image": "https://i.imgur.com/hOxc2Rj.jpeg",
+      "specialist": "Career Transition Expert",
+      "description": "Daniel Harris is a career transition expert with a focus on helping individuals successfully change industries or roles. His workshops and one-on-one sessions offer practical insights into identifying transferable skills, preparing for new career challenges, and achieving career satisfaction."
+    }
+  ]
+  
